@@ -1,0 +1,21 @@
+# Node dependencies
+WayWise/node_modules/
+backend/node_modules/
+
+# Expo / React Native
+WayWise/.expo/
+WayWise/.expo-shared/
+WayWise/.vscode/
+WayWise/dist/
+WayWise/web-build/
+
+# Logs
+*.log
+
+# Env files
+WayWise/.env
+backend/.env
+
+# System files
+.DS_Store
+Thumbs.db
