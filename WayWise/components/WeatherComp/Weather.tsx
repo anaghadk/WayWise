@@ -186,7 +186,7 @@ const styles = StyleSheet.create({
     width: "100%",
     maxWidth: 480,
     alignSelf: "center",
-    borderRadius: 24,
+    
     overflow: "hidden",
     backgroundColor: "white",
   },
