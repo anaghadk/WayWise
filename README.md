@@ -5,8 +5,6 @@ WayWise
 WayWise is a prototype mobile app built with React Native (Expo).
 It’s designed as a travel itinerary planner, where users can explore destinations, food spots, and shopping places, and add them into a customizable trip list.
 
-⚠️ Note: This is only a prototype, not a fully functional production app. Some features are limited and may not be fully polished.
-
 
 Features
 
